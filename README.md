@@ -1,8 +1,6 @@
 # 💫 Hi 👋, I'm Shreya Agrawal
-**A passionate Data Analyst || PowerBI developer from India**
-
-Email Me 👉 ✉️ **shreya.ag256@gmail.com** For Collaboration/Project or Anything Else. 😊😊<br>
-🎯 Passionate about QA Testing, Data Analytics, and building meaningful solutions<br>🔍 Skilled in Python, SQL, Power BI,Excel and manual/automated testing<br>📊 Love working with data, solving real-world problems, and continuously learning<br>🚀 Always up for a challenge — currently exploring real-world projects and hackathons<br>📬 Let's connect: LinkedIn
+**A passionate about to growing in my career ,picking up a new technical skill , and making a worklife a little less overwhelming**<br>
+🔍 Skilled in Python, SQL, Power BI,Excel and manual/automated testing<br>📊 Love working with data, solving real-world problems, and continuously learning<br>🚀 Always up for a challenge — currently exploring real-world projects and hackathons<br>📬 Let's connect: LinkedIn
 
 
 ## 🌐 Socials:
